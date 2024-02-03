@@ -1,10 +1,10 @@
 Before reading this project you should be familiar with 
-Node js
-Java script 
+Node js,
+Java script, 
 MongoDb 
 
 
-IN that I used MVP patteren to create CRUD api in user login and signup with JWT auth token implementation ....
+IN that I used MVC patteren to create CRUD api in user login and signup with JWT auth token implementation ....
 
 First Install node js , visual studio , Monogo DB database and postman ..........
 
